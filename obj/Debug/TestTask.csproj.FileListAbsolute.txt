@@ -1,0 +1,8 @@
+D:\С# ASATA Project\TestTask\TestTask\bin\Debug\TestTask.exe.config
+D:\С# ASATA Project\TestTask\TestTask\bin\Debug\TestTask.exe
+D:\С# ASATA Project\TestTask\TestTask\bin\Debug\TestTask.pdb
+D:\С# ASATA Project\TestTask\TestTask\obj\Debug\TestTask.csproj.AssemblyReference.cache
+D:\С# ASATA Project\TestTask\TestTask\obj\Debug\TestTask.csproj.SuggestedBindingRedirects.cache
+D:\С# ASATA Project\TestTask\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+D:\С# ASATA Project\TestTask\TestTask\obj\Debug\TestTask.exe
+D:\С# ASATA Project\TestTask\TestTask\obj\Debug\TestTask.pdb
